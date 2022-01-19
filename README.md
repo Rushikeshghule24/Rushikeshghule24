@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/rglion24" target="blank"><img src="https://img.shields.io/twitter/follow/rglion24?logo=twitter&style=for-the-badge" alt="rushikeshghule24" /></a> </p>
 
 
-- 🔭 I’m currently working on Data Science and AI & ML.
+- 🔭 I’m currently working on **Data Science and AI & ML**
 
 - 👯 I’m looking to collaborate With Data Scientist.
 
@@ -14,7 +14,7 @@
 
 - 😍 To know more about me Follow me on Instagram **https://www.instagram.com/rushikeshghule24/**
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ❤️ I Love to Play Cricket
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
